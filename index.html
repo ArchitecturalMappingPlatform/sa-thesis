@@ -68,7 +68,7 @@
         var stamenmap = L.tileLayer('http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png').addTo(map);
 
         //Create locations for geojson
-        var schools="data/archSchools.geojson";
+        var schools="data/sa_thesis.geojson";
 
         //Styles and loads the landmarks
         $.getJSON(schools, function(data) {
