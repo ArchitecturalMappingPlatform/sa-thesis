@@ -1,0 +1,5504 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/03-system.jpg",
+        "latitude": 76.7,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T-3",
+        "Order": 9,
+        "buildingtype": "Housing",
+        "url": "http://superarchitects.world/portfolio/acqua-alta2/",
+        "longitude": -41.2021887,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Mengyi Fan and Joseph Justus",
+        "continent": "",
+        "school": "Colombia University, GSAPP",
+        "country": "",
+        "title": "Acqua Alta",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Francois Roche, Ezio Blasetti"
+      },
+      "geometry": {
+        "coordinates": [
+          -41.202188,
+          76.7
+        ],
+        "type": "Point"
+      },
+      "id": "0371b43c7e281fa29b10680631046e27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Goteborg",
+        "coverimageurl": "",
+        "latitude": 57.6997109,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 96,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/archipelo-pavilion/",
+        "longitude": "11.9710288﻿",
+        "programname": "",
+        "state": " Röhsska museum of design in Göteborg",
+        "hashtags/Keywords": "",
+        "Author(s)": "Marcus Abrahamsson and Benoit Croo",
+        "continent": "Europe",
+        "school": "Chalmers University of Technology",
+        "country": "Sweden",
+        "title": "Archipelo Pavilion",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Mikael Frej, Frans Magnusson, Klas Moberg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.971028,
+          57.69971
+        ],
+        "type": "Point"
+      },
+      "id": "044cfcd90c7eca436044ec080eb6d124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.0039643,
+        "degree": "RIBA II",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 60,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/eu-ministry/",
+        "longitude": 28.4517462,
+        "programname": "",
+        "state": "Istanbul",
+        "hashtags/Keywords": "",
+        "Author(s)": "Harjot Rai",
+        "continent": "Asia",
+        "school": "University : Birmingham School of Architecture",
+        "country": "Turkey",
+        "title": "EU Ministry of Imposition in Istanbul",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Kevin Singh"
+      },
+      "geometry": {
+        "coordinates": [
+          28.451746,
+          41.003964
+        ],
+        "type": "Point"
+      },
+      "id": "0496abf4d5aa1cb693ea982d2b9bc7f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.062001,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 27,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/time-image/",
+        "longitude": -118.286803,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Amir Mikhaeil",
+        "continent": "",
+        "school": "Yale School of Architecture",
+        "country": "",
+        "title": "Time-Image",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Joe Day, Michelle Paul"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.286803,
+          34.062001
+        ],
+        "type": "Point"
+      },
+      "id": "078aa2df2327da2d064fcf20dcee80c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 44.531584,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 31,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/a%c2%b7live/",
+        "longitude": 11.324344,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Cristina Baroncini, Lucia Nadalin and Giulia Pozzi",
+        "continent": "",
+        "school": "Università DI Ferrara",
+        "country": "",
+        "title": "A-Live",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          11.324344,
+          44.531584
+        ],
+        "type": "Point"
+      },
+      "id": "0899213c1d494f7a75ad6241b4a71915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 49.8767925,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 55,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/organ-of-evolution/",
+        "longitude": 8.6626715,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Tom Benard",
+        "continent": "Europe",
+        "school": "Ecole Spéciale d’Architecture in Paris",
+        "country": "",
+        "title": "Organ of Evolution",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ricardo De Ostos, Christian Delecluse"
+      },
+      "geometry": {
+        "coordinates": [
+          8.662671,
+          49.876792
+        ],
+        "type": "Point"
+      },
+      "id": "08b4d76f106aa8dbeb193e31c3dd5b8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Dubai",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 25.074096,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 160,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/dubai-central-space-plaza/",
+        "longitude": 54.9479135,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sally Michael",
+        "continent": "Asia",
+        "school": "American University in Dubai",
+        "country": "",
+        "title": "Dubai Central Space Plaza",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Tiago Costa"
+      },
+      "geometry": {
+        "coordinates": [
+          54.947913,
+          25.074096
+        ],
+        "type": "Point"
+      },
+      "id": "0b4b7615b48ec9da2b454371db3ad67e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Harlem",
+        "coverimageurl": "",
+        "latitude": 40.8156637,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 86,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/transforming-pool/",
+        "longitude": -73.9655982,
+        "programname": "",
+        "state": "New York",
+        "hashtags/Keywords": "",
+        "Author(s)": "Emily Sims",
+        "continent": "",
+        "school": "University of British Columbia",
+        "country": "",
+        "title": "Transforming Pool",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "John Bass"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.965598,
+          40.815663
+        ],
+        "type": "Point"
+      },
+      "id": "0b66bc1f60eafbbc503f56114145bbd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Berlin, Germany",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 52.5076682,
+        "degree": "DipArch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 172,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/heteroglossic-city/",
+        "longitude": 13.286063,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Finn Wilkie",
+        "continent": "Europe",
+        "school": "Mackintosh School of Architecture at Glasgow School of Art",
+        "country": "",
+        "title": "Heteroglossic City",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Robert Mantho"
+      },
+      "geometry": {
+        "coordinates": [
+          13.286063,
+          52.507668
+        ],
+        "type": "Point"
+      },
+      "id": "0be92ae86f6dbf1d8d7bad47c18930e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 32.555197,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 45,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/hybrid-typologies/",
+        "longitude": -117.128911,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Joseph I. Ruiz-Tapia",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Hybrid Typologies",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Marcel Sanchez-Prieto, Goyo Ortiz"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.128911,
+          32.555197
+        ],
+        "type": "Point"
+      },
+      "id": "0c16ec6601e14d72fb15e3b8018c6d74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "the Greek island of Lesbos",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 39.8106799,
+        "degree": "Diploma 2 RIBA II",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 193,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/ad-hoc-land/",
+        "longitude": 23.6951043,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jose Eduardo Navarrete Deza",
+        "continent": "",
+        "school": "Architectural Association School of Architecture",
+        "country": "",
+        "title": "Ad Hoc Land",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Didier Faustino and Kostas Grigoriadis"
+      },
+      "geometry": {
+        "coordinates": [
+          23.695104,
+          39.810679
+        ],
+        "type": "Point"
+      },
+      "id": "1161380d50bcd58a18bb3214135455ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "London City Hall",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.5046989,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 185,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/alexandria/",
+        "longitude": -0.0798368,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Vanessa De La Hoz",
+        "continent": "Europe",
+        "school": "Southern California Institute of Architecture",
+        "country": "United Kingdom",
+        "title": "Alexandria",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Eric Owen Moss & Marcelo Spina"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.079836,
+          51.504698
+        ],
+        "type": "Point"
+      },
+      "id": "139bd502498724f25a1577cefe985234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "brooklyn naval yard",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.7036077,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 157,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/vestigial-landscapes/",
+        "longitude": "-73.9723245﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Emir Tigrel",
+        "continent": "North America",
+        "school": "Bartlett School of Architecture",
+        "country": "",
+        "title": "Vestigial Landscapes",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Penelope Haralambidou, Michael Tite, Simon Kennedy"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.972324,
+          40.703607
+        ],
+        "type": "Point"
+      },
+      "id": "15dec03cc403289b194b3142fb2885fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "london",
+        "coverimageurl": "",
+        "latitude": 51.5226956,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 72,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/post-human-experiment/",
+        "longitude": -0.1368293,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Douglas Fenton",
+        "continent": "Europe",
+        "school": "The Bartlett School of Architecture, UCL",
+        "country": "",
+        "title": "Post Human Experiment ",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.136829,
+          51.522695
+        ],
+        "type": "Point"
+      },
+      "id": "180c4566c8b2188332e5101680257140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Friedrichstraße",
+        "city": "Berlin",
+        "coverimageurl": "",
+        "latitude": 52.5133758,
+        "degree": "DipArch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 147,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/49346-2/",
+        "longitude": 13.3872257,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Arseni Timofejev",
+        "continent": "Europe",
+        "school": "Mackintosh School of Architecture, Glasgow School of Art",
+        "country": "Germany",
+        "title": "Balloon Station Friedrichstraße · Berlin",
+        "Email": "",
+        "year": "",
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          13.387225,
+          52.513375
+        ],
+        "type": "Point"
+      },
+      "id": "187b64a5403b02ea39aa3636edb4d636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": -28.676374,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 36,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/46745-2/",
+        "longitude": 28.858952,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jurie Swart",
+        "continent": "",
+        "school": "University of the Free State",
+        "country": "",
+        "title": "Borderline",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Martie Bitzer, Jan Ras"
+      },
+      "geometry": {
+        "coordinates": [
+          28.858952,
+          -28.676374
+        ],
+        "type": "Point"
+      },
+      "id": "1976e8dee1440836b00df1d058f2947d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Hollywood Hills",
+        "coverimageurl": "",
+        "latitude": 34.1341151,
+        "degree": "M. Arch II",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 79,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-paradox-of-shifting-architecture/",
+        "longitude": -118.3237369,
+        "programname": "",
+        "state": "California",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ahmed Shokir",
+        "continent": "North America",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "The Paradox of Shifting Architecture",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ingalill Wahlroos-Ritter"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.323736,
+          34.134115
+        ],
+        "type": "Point"
+      },
+      "id": "1a5dd305868ea1355ea98a8ac3d43f98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Les Halles,Paris, France",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 48.861887,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 150,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/forum-les-halles-2040-2/",
+        "longitude": 2.3414072,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jacob Hartzell and Gregory Ingalls",
+        "continent": "Europe",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Forum Les Hailes",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "David Ruy"
+      },
+      "geometry": {
+        "coordinates": [
+          2.341407,
+          48.861887
+        ],
+        "type": "Point"
+      },
+      "id": "1dddafb46e1e17e867a5b24c720587a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Cyprus",
+        "coverimageurl": "",
+        "latitude": 35.1645844,
+        "degree": "M. Arch(D)",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 97,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/womens-haven/",
+        "longitude": 32.3157992,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Aishah Mokhtar",
+        "continent": "Europe",
+        "school": "Oxford School of Architecture",
+        "country": "",
+        "title": "Women's Haven",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Nasser Golzari, Yara Sharif"
+      },
+      "geometry": {
+        "coordinates": [
+          32.315799,
+          35.164584
+        ],
+        "type": "Point"
+      },
+      "id": "20b7651baa788dd0a16f83cb0e9ec0c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.897978,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 19,
+        "buildingtype": "Master Plan",
+        "url": "http://superarchitects.world/portfolio/ground-the-underground/",
+        "longitude": 4.441115,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Paula Banda and Peter Kekich",
+        "continent": "",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Ground the Underground",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Florencia Pita"
+      },
+      "geometry": {
+        "coordinates": [
+          4.441115,
+          51.897978
+        ],
+        "type": "Point"
+      },
+      "id": "23f0b5ae7d04a67ea51be3111cc7227e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Washington DC",
+        "coverimageurl": "",
+        "latitude": 38.899265,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 100,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/campus/",
+        "longitude": -77.1546508,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Phillip Denny",
+        "continent": "North America",
+        "school": "Carnegie Mellon University",
+        "country": "US",
+        "title": "Campus",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Mary-Lou Arscott, Rami el Samahy, Jonathan Kline, Charles Rosenblum"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.15465,
+          38.899265
+        ],
+        "type": "Point"
+      },
+      "id": "2508345adadb8d575aaa2c114aaa8364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 37.945295,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 29,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/46610-2/",
+        "longitude": 23.640265,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Daniel Hernandez Diaz",
+        "continent": "",
+        "school": "Universidad Politécnica de Madrid",
+        "country": "",
+        "title": "Alexander Travelers",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          23.640265,
+          37.945295
+        ],
+        "type": "Point"
+      },
+      "id": "283ff70faa632ea4f534dde54a343360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 36.436157,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 20,
+        "buildingtype": "Hospitality",
+        "url": "http://superarchitects.world/portfolio/etiologies-of-architecture/",
+        "longitude": -117.960047,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ara Hovsepyan",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Eticologies of Nature",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.960047,
+          36.436157
+        ],
+        "type": "Point"
+      },
+      "id": "295ef8410aa82f920e050d6278d859d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/1.Site-Model.jpg",
+        "latitude": 37.5396216,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS-6",
+        "Order": 8,
+        "buildingtype": "Cultural",
+        "url": "http://superarchitects.world/portfolio/wii-center/",
+        "longitude": -122.2656297,
+        "programname": "Bachelor of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ido Biran and Claudia Guerra",
+        "continent": "",
+        "school": "University of California of Los Angeles",
+        "country": "",
+        "title": "WII Center",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Greg Lynn"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.265629,
+          37.539621
+        ],
+        "type": "Point"
+      },
+      "id": "2a210d13dd3613b7001cf35713ae4b42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Choa Chu Kang Columbarium Singapore",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 1.3076811,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 192,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/columbarium-in-the-community/",
+        "longitude": 103.7594446,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Kyra Swee Yew Yong",
+        "continent": "Asia",
+        "school": "National University of Singapore",
+        "country": "",
+        "title": "Columbarium in the Community",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Alan Tay Shiaw Shih"
+      },
+      "geometry": {
+        "coordinates": [
+          103.759444,
+          1.307681
+        ],
+        "type": "Point"
+      },
+      "id": "2ac2bb1891ffe21176a43d5a7819822d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 11.016844,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 28,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sleeping-beauty/",
+        "longitude": 76.955832,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Hugo Reichmann",
+        "continent": "",
+        "school": "École Spéciale d’Architecture",
+        "country": "",
+        "title": "Sleeping Beauty",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Ricardo Carvalho de Ostos, Christian Delecluse, Theo Lalis, Martial Marquet, Marysol Kraviez"
+      },
+      "geometry": {
+        "coordinates": [
+          76.955832,
+          11.016844
+        ],
+        "type": "Point"
+      },
+      "id": "2b3ad443a5b56fb4197d3bb9b4b09e5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.507319,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 21,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/46474-2/",
+        "longitude": -0.128227,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Daniel Illum-Davis",
+        "continent": "",
+        "school": "Arkitektskolen Aarhus",
+        "country": "",
+        "title": "Housing the Homeless",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.128227,
+          51.507319
+        ],
+        "type": "Point"
+      },
+      "id": "2f606b785b0fa2fdd097c9e6dd02b2ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 30.0213469,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 63,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/supernode/",
+        "longitude": -90.1626615,
+        "programname": "",
+        "state": "New Orleans",
+        "hashtags/Keywords": "",
+        "Author(s)": "Reem Nasir",
+        "continent": "North America",
+        "school": "Architectural Association School of Architecture",
+        "country": "",
+        "title": "Supernode",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Nacho Martin, Manuel Collado, Manijeh Verghese"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.162661,
+          30.021346
+        ],
+        "type": "Point"
+      },
+      "id": "3267753fe58e0b8ec43df31c2492a9d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Highline",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.744551,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 197,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/wonderland/",
+        "longitude": -74.007014,
+        "programname": "Syracuse UniversitySchool of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jessica Ordaz-Garcia and Stephanie Tager",
+        "continent": "North America",
+        "school": "Syracuse University",
+        "country": "US",
+        "title": "Wonderland",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Molly Hunker"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.007014,
+          40.744551
+        ],
+        "type": "Point"
+      },
+      "id": "3328db919bc2728a98206a24fe2f7ed6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "London",
+        "coverimageurl": "",
+        "latitude": 51.5144918,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 88,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sofi/",
+        "longitude": -0.0824952,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Danny Karas",
+        "continent": "Europe",
+        "school": "Southern California Institute of Architecture",
+        "country": "United Kingdom",
+        "title": "Sofi",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Hernan Diaz Alonso, Ivan Bernal"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.082495,
+          51.514491
+        ],
+        "type": "Point"
+      },
+      "id": "35addabb900df62dc065a5e91590a7c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Isleta Village Proper, Bernalillo County, New Mexico",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.9052096,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 170,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/landscape-hydrothermal-center/",
+        "longitude": -106.7149262,
+        "programname": "HI!",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "David Del Valls",
+        "continent": "North America",
+        "school": "High Technical School University of Las Palmas",
+        "country": "",
+        "title": "Landscape Hydrothermal Center",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Juan Ramirez Guedes"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.714926,
+          34.905209
+        ],
+        "type": "Point"
+      },
+      "id": "36298db07e1d3295213101f07c1fe64e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.005615,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 32,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sultanahmet-jewellers/",
+        "longitude": 28.974261,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jennifer Marckx and Juan Salazar",
+        "continent": "",
+        "school": "Cal-Poly Pomona",
+        "country": "",
+        "title": "Sultanahmet",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Sarah Lorenzen"
+      },
+      "geometry": {
+        "coordinates": [
+          28.974261,
+          41.005615
+        ],
+        "type": "Point"
+      },
+      "id": "3796c9a3905e80841b81e43cc0491394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 60.1203449,
+        "degree": "RIBA II",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 94,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/here-be-dragons/",
+        "longitude": "-176.4386323﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "William Gowland",
+        "continent": "",
+        "school": "Architectural Association",
+        "country": "",
+        "title": "Here Be Dragons",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Liam Young, Kate Davies"
+      },
+      "geometry": {
+        "coordinates": [
+          -176.438632,
+          60.120344
+        ],
+        "type": "Point"
+      },
+      "id": "3817311c785a7b8774396e3583d7694d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Favelas in Rio Das Pedras",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": -22.9733751,
+        "degree": "MsAAD",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 141,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/trash-institute/",
+        "longitude": -43.3319959,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Chen Yannan and Yan Dihua",
+        "continent": "South America",
+        "school": "Columbia University, GSAPP",
+        "country": "Brazil",
+        "title": "Trash Institute",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Hilary Sample"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.331995,
+          -22.973375
+        ],
+        "type": "Point"
+      },
+      "id": "39f5a657421eea0fe055f950836b236a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.061863,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 43,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-hidden-orchestra/",
+        "longitude": -118.226915,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alice Labourel",
+        "continent": "",
+        "school": "Ecole Spéciale d’Architecture in Paris",
+        "country": "",
+        "title": "The Hidden Orcheastra",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Sir Peter Cook, Ricardo DeOstos"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.226915,
+          34.061863
+        ],
+        "type": "Point"
+      },
+      "id": "39f94afdbc33fbc77c50a2e4c7129982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/412-17-011.jpg",
+        "latitude": 34.0569401,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS-4",
+        "Order": 4,
+        "buildingtype": "Commercial",
+        "url": "http://superarchitects.world/portfolio/aerated-frame/",
+        "longitude": -118.2406208,
+        "programname": "Bachelor of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Adrian Lim",
+        "continent": "North America",
+        "school": "University of California of Los Angeles",
+        "country": "",
+        "title": "Aerated Frame",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Neil Denari"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.24062,
+          34.05694
+        ],
+        "type": "Point"
+      },
+      "id": "3eab06a39a07813a9198bb1b45afcd59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Rome",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.9097306,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 173,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/grand-old-object-party/",
+        "longitude": 12.2558141,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Eric Lawler",
+        "continent": "Europe",
+        "school": "Ball State University College of Architecture and Planning",
+        "country": "Italy",
+        "title": "Grand Old Object Party",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Rachel Dickey"
+      },
+      "geometry": {
+        "coordinates": [
+          12.255814,
+          41.90973
+        ],
+        "type": "Point"
+      },
+      "id": "3f34ec6c2ef929923c8b767f2095335d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 48.196799,
+        "degree": "MS ",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 24,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/asemic-forest/",
+        "longitude": 16.337702,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Shahira Hammad",
+        "continent": "",
+        "school": "University of Applied Arts Vienna",
+        "country": "",
+        "title": "Asemic Forest",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Hernan Diaz Alonso, Steven Ma"
+      },
+      "geometry": {
+        "coordinates": [
+          16.337702,
+          48.196799
+        ],
+        "type": "Point"
+      },
+      "id": "3fc3d3e643ed27c9aa4034e2ccff7984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "East Greenwich",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.6330503,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 149,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/drop-dead-city/",
+        "longitude": -71.5308341,
+        "programname": "",
+        "state": "Rhode Island",
+        "hashtags/Keywords": "",
+        "Author(s)": "Dominic Dickens",
+        "continent": "North America",
+        "school": "University of Greenwich",
+        "country": "",
+        "title": "Drop Dead City",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Max Dewdney, James A. Craig"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.530834,
+          41.63305
+        ],
+        "type": "Point"
+      },
+      "id": "400f675a0cee0bd37974caa845a4f014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Calabasas",
+        "coverimageurl": "",
+        "latitude": 34.136725,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 14,
+        "buildingtype": "Housing",
+        "url": "http://superarchitects.world/portfolio/evaporative-suburbia/",
+        "longitude": -118.662663,
+        "programname": "",
+        "state": "CA",
+        "hashtags/Keywords": "",
+        "Author(s)": "Michael Carmello Piscitello",
+        "continent": "North America",
+        "school": "Southern California Institute of Architecture",
+        "country": "US",
+        "title": "Evaporative Suburbia",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.662663,
+          34.136725
+        ],
+        "type": "Point"
+      },
+      "id": "4327302b2e43161f71a8cadb481b7b16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Grossinger’s Catskill Resort ",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.7912308,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 104,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/memento-mori/",
+        "longitude": -74.7265818,
+        "programname": "",
+        "state": "New York",
+        "hashtags/Keywords": "",
+        "Author(s)": "Robert Magdy Morgan",
+        "continent": "North America",
+        "school": "Columbia University, GSAPP",
+        "country": "US",
+        "title": "Memento Mori",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Marc Tsurumaki"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.726581,
+          41.79123
+        ],
+        "type": "Point"
+      },
+      "id": "43edcd6b42ce4be2379c3fa7a79b4cfc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "Atlanta",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.762729,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 51,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/portmanteau/",
+        "longitude": -84.3888813,
+        "programname": "",
+        "state": "Georgia",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ian Fralick",
+        "continent": "North America",
+        "school": "Georgia Institute of Technology",
+        "country": "",
+        "title": "Portmanteau",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Jennifer Bonner"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.388881,
+          33.762729
+        ],
+        "type": "Point"
+      },
+      "id": "44457ce2639373960eb29b22f19b10c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "city of Beer Sheva in south of Israel",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 31.2615099,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 106,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/terra-nova/",
+        "longitude": 34.7558675,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Liran Yehuda Shukrun",
+        "continent": "Europe",
+        "school": "Ariel University,  School of Architecture",
+        "country": "Israel",
+        "title": "Terra-nova",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Prof. Beni R. Levy, Itzhak Elhadif, Udi Mendelson, Dana Oberson and Yoav Lanir"
+      },
+      "geometry": {
+        "coordinates": [
+          34.755867,
+          31.261509
+        ],
+        "type": "Point"
+      },
+      "id": "45009c7559455ca40b7c3827aa7a0e77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/1300X700-WEBSITE-CONTENT3.jpg",
+        "latitude": 31.5368743,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "TS-5",
+        "Order": 5,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/desire-for-an-object/",
+        "longitude": 35.2100992,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "",
+        "continent": "",
+        "school": "",
+        "country": "",
+        "title": "Desire for an Object",
+        "Email": "",
+        "year": "",
+        "advisor(s)": ""
+      },
+      "geometry": {
+        "coordinates": [
+          35.210099,
+          31.536874
+        ],
+        "type": "Point"
+      },
+      "id": "460e5aeec5c4bb1e51bc1ec0d161255b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Quito",
+        "coverimageurl": "",
+        "latitude": -1.1207735,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 84,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/platforms-of-visibility/",
+        "longitude": -79.4411594,
+        "programname": "Graduate School of Design",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Emmet Truxes",
+        "continent": "South America",
+        "school": "Harvard University",
+        "country": "Ecuador",
+        "title": "Platforms of Visibility",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Felipe Correa"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.441159,
+          -1.120773
+        ],
+        "type": "Point"
+      },
+      "id": "491eea8296b473b936ae93f5990a97bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Canadian Atlantic",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 47.7961207,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 128,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/bio-rig/",
+        "longitude": -80.3435423,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Julien Nolin",
+        "continent": "North America",
+        "school": "Carleton University, Architecture School",
+        "country": "",
+        "title": "Bio-Rig",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Johan Voordouw"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.343542,
+          47.79612
+        ],
+        "type": "Point"
+      },
+      "id": "49913f663a95995a0bfe0474f3713559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Antwerp, Belgium",
+        "coverimageurl": "",
+        "latitude": 51.2603014,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 75,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/breadcrumbs/",
+        "longitude": 4.2304512,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Maria Rius Ruiz",
+        "continent": "Europe",
+        "school": "Escola Tècnica Superior d’Arquitectura de Barcelona",
+        "country": "",
+        "title": "Breadcrumbs",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Jaime Coll, Cristina Jover, Manel Bailo, Jordi Pagès"
+      },
+      "geometry": {
+        "coordinates": [
+          4.230451,
+          51.260301
+        ],
+        "type": "Point"
+      },
+      "id": "4b10eb3de174d660461303a4903235ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "French Concession, Shanghai, China",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 31.2109046,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 156,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/structures-and-stratifications/",
+        "longitude": "121.4554113﻿",
+        "programname": "Architectural Association Visiting School\nStatus : Shanghai Summer School, 2015",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Qing Hong, Ningxin Huang, Siu Yoon, Zihao Wang, Jingyi Liu, Kun Fan, Ting  Su, Xichen Zhao, Lian Lei, Sedar Aydin, Ziyao Liu, Xianming Sang",
+        "continent": "Asia",
+        "school": "Architectural Association",
+        "country": "",
+        "title": "Structures of Stratifications",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Gilles Retsin"
+      },
+      "geometry": {
+        "coordinates": [
+          121.455411,
+          31.210904
+        ],
+        "type": "Point"
+      },
+      "id": "4bf502fdc37841bf8e1d52d931f4ff76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Ashdod",
+        "coverimageurl": "",
+        "latitude": 31.8082143,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 70,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sea-change/",
+        "longitude": 34.5881545,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Dalia Munenzon",
+        "continent": "",
+        "school": "Israel Institute of technology Faculty of Architecture and Town Planning",
+        "country": "",
+        "title": "Sea Change ",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Els Verbakel"
+      },
+      "geometry": {
+        "coordinates": [
+          34.588154,
+          31.808214
+        ],
+        "type": "Point"
+      },
+      "id": "4cf6ae49e8a8a0c40cb7628c5cec38e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Berlin, Germany",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 52.5076682,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 175,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/memory-palace/",
+        "longitude": 13.286063,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sebastian Tiew",
+        "continent": "Europe",
+        "school": "Architectural Association, School of Architecture",
+        "country": "",
+        "title": "Memory Palace",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Maria Fedorchenko"
+      },
+      "geometry": {
+        "coordinates": [
+          13.286063,
+          52.507668
+        ],
+        "type": "Point"
+      },
+      "id": "4f532e44b3dd39807802d590ac9d55da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Los Angeles",
+        "coverimageurl": "",
+        "latitude": 34.0562463,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 73,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/biological-growth/",
+        "longitude": -118.2356834,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Yong Ha Kim",
+        "continent": "North America",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Biological Growth",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Hernan Diaz Alonso"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.235683,
+          34.056246
+        ],
+        "type": "Point"
+      },
+      "id": "507c57189693d2e9a5cf2eaf614d5089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": " Abel Tasman National Park",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": -40.9346851,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 114,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/awaroa-lighthouse/",
+        "longitude": "172.9699665﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Henry Stephens, Nick Roberts and Jansen Aui",
+        "continent": "Zealandia",
+        "school": "Victoria University of Wellington",
+        "country": "New Zealand’s",
+        "title": "Awaroa Lighthouse",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          172.969966,
+          -40.934685
+        ],
+        "type": "Point"
+      },
+      "id": "5600b566d0fd394f29879560724de38b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 42.376009,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 56,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/prischool/",
+        "longitude": -71.1160821,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Glen J. Santayana",
+        "continent": "North America",
+        "school": "University : Harvard Graduate School of Architecture",
+        "country": "",
+        "title": "PriSchool | A Prison + School Hybrid",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "John Hong & Jinhee Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.116082,
+          42.376009
+        ],
+        "type": "Point"
+      },
+      "id": "56b139f0ace133a027d77fde900aa88b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "New York",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.7058254,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 154,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/culture-cultures/",
+        "longitude": -74.1180867,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Molly Mason, Zherui Wang",
+        "continent": "North America",
+        "school": "Pratt Institute School of Architecture",
+        "country": "",
+        "title": "Culture Cultures",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Michael Chen, Jason Lee"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.118086,
+          40.705825
+        ],
+        "type": "Point"
+      },
+      "id": "58c2fd2ee625a004c15f753b6c4c84fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "28742 Lozoya",
+        "precedents": "",
+        "Place": "",
+        "city": "Madrid",
+        "coverimageurl": "",
+        "latitude": 40.951592,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T-4",
+        "Order": 10,
+        "buildingtype": "Industrial",
+        "url": "http://superarchitects.world/portfolio/automative-center/",
+        "longitude": 3.791972,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alicia Castellote",
+        "continent": "Europe",
+        "school": "Escuela Tecnica Superior de Arquitectura de Madrid",
+        "country": "Spain",
+        "title": "Automative Center",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          3.791972,
+          40.951592
+        ],
+        "type": "Point"
+      },
+      "id": "596220467a75640572dd3e765f9aa829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Boston",
+        "coverimageurl": "",
+        "latitude": 42.3606249,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 85,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/manifesto-for-a-broken-urbanism/",
+        "longitude": -71.0613042,
+        "programname": "Graduate School of Design",
+        "state": "Massachusetts",
+        "hashtags/Keywords": "",
+        "Author(s)": "Elle Gerdeman",
+        "continent": "",
+        "school": "Harvard University",
+        "country": "",
+        "title": "Manifesto for a Broken Urbanism",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Danielle Etzler, Eric Howeler"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.061304,
+          42.360624
+        ],
+        "type": "Point"
+      },
+      "id": "5b0184217edd7ab134587877004956d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Siletz, Oregon",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 44.7204234,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 145,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-siletz-house/",
+        "longitude": "-123.9268597﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Charles Shelton Green",
+        "continent": "North America",
+        "school": "University of California, Berkeley",
+        "country": "",
+        "title": "The Siletz House",
+        "Email": "",
+        "year": "",
+        "advisor(s)": "Maria Paz Gutierrez, René Davids"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.926859,
+          44.720423
+        ],
+        "type": "Point"
+      },
+      "id": "5dc70582bc202a29dda6e5a9855d99cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Amazon",
+        "coverimageurl": "",
+        "latitude": -3.4650728,
+        "degree": "M. Arch II",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 81,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/island-amazonia/",
+        "longitude": -62.826007,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Chloe Lob and Yuna Kabota",
+        "continent": "Europe",
+        "school": "University of California, Los Angeles",
+        "country": "Ecudor ",
+        "title": "Island Amazonia",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Roger Sherman"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.826007,
+          -3.465072
+        ],
+        "type": "Point"
+      },
+      "id": "602015ed31a8afa31e5275677b8bc877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Maanshan’s Nuclear Power Plant",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 21.9581404,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 139,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/ouroboros-city/",
+        "longitude": "120.7495804﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Lu, Hao-Yeh",
+        "continent": "Asia",
+        "school": "Tunghai University",
+        "country": "",
+        "title": "Ouroboros City",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Liou, Guan-Hong"
+      },
+      "geometry": {
+        "coordinates": [
+          120.74958,
+          21.95814
+        ],
+        "type": "Point"
+      },
+      "id": "60724c265af28b8ac84d3c6deb2060f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Manhattan",
+        "coverimageurl": "",
+        "latitude": 40.7590403,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 83,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/information-revolution/",
+        "longitude": -74.0392713,
+        "programname": "School of Architecture",
+        "state": "New York",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sergej Maier",
+        "continent": "",
+        "school": "Architectural Association ",
+        "country": "",
+        "title": "Information Revolution",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Tobias Klein"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.039271,
+          40.75904
+        ],
+        "type": "Point"
+      },
+      "id": "61971d254c011c456f599da644726f79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Melbourne",
+        "coverimageurl": "",
+        "latitude": -36.4267215,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 95,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/search-of-a-suburban-domain/",
+        "longitude": 140.3020649,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Nicholas Stathopoulos",
+        "continent": "Australia",
+        "school": "RMIT University",
+        "country": "Austrailia",
+        "title": "Search of a Suburban Domain",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Anna Johnson"
+      },
+      "geometry": {
+        "coordinates": [
+          140.302064,
+          -36.426721
+        ],
+        "type": "Point"
+      },
+      "id": "61f4efa199c9e597a28f2199bbd3ba2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 35.6730185,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 53,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-chronicles/",
+        "longitude": 139.4302008,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Eli Keller",
+        "continent": "Asia",
+        "school": "Ariel University, School of Architecture",
+        "country": "Tel Aviv",
+        "title": "Chronicles",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Dean Prof. Beni R. Levy, Itzhak El – Hadif, Udi Mendelson, Dana Oberson, Prof. Sa’adia Mandel"
+      },
+      "geometry": {
+        "coordinates": [
+          139.4302,
+          35.673018
+        ],
+        "type": "Point"
+      },
+      "id": "6262bb38ae2149b4e53ade9ba90bd29a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.742847,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 42,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/genius-loci/",
+        "longitude": -118.261433,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Eric Arm",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Genius Loci",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ewan Branda, Eric Olsen"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.261433,
+          33.742847
+        ],
+        "type": "Point"
+      },
+      "id": "63237f0b8c517aee2b98f6d91503548f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/07.jpg",
+        "latitude": 34.0483289,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "T-2",
+        "Order": 7,
+        "buildingtype": "Arena",
+        "url": "http://superarchitects.world/portfolio/46252-2/",
+        "longitude": -118.2552738,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Donovan Ballantine",
+        "continent": "",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "(a) Ball",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.255273,
+          34.048328
+        ],
+        "type": "Point"
+      },
+      "id": "63878dd95cc6637b6396847d9f493ccb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Mexico City",
+        "coverimageurl": "",
+        "latitude": 19.3905191,
+        "degree": "RIBA II",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 89,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/off-grid/",
+        "longitude": -99.4238147,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "William Gowland",
+        "continent": "North America",
+        "school": "Architectural Association",
+        "country": "Mexico",
+        "title": "Off-Grid",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Liam Young, Kate Davies"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.423814,
+          19.390519
+        ],
+        "type": "Point"
+      },
+      "id": "6711e75b7f094258907a89fc147d0782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Manchester’s civic centre",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 53.3796419,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 105,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/lithification/",
+        "longitude": "-2.2703845﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "James Taylor-Foster",
+        "continent": "Europe",
+        "school": "Manchester School of Architecture",
+        "country": "UK",
+        "title": "Lithification",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Dr. Darren Deane"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.270384,
+          53.379641
+        ],
+        "type": "Point"
+      },
+      "id": "685d7b7cf827ca01c19d2c3aa95db146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.671626,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 37,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/meta-form/",
+        "longitude": -73.99891,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Blake Hudelson and Jeff Moody",
+        "continent": "",
+        "school": "California College of the Arts",
+        "country": "",
+        "title": "Meta Form",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Mona El Khafif, David Fletcher"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.99891,
+          40.671626
+        ],
+        "type": "Point"
+      },
+      "id": "6b12f2becce5d55ed7a576d1e66da8d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "E. Illinois St.",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.8909308,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 67,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/segragated-monoliths/",
+        "longitude": -87.6232564,
+        "programname": "",
+        "state": "Chicago",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alex Phi",
+        "continent": "North America",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Segregated Monotliths",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Florencia Pita"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623256,
+          41.89093
+        ],
+        "type": "Point"
+      },
+      "id": "6d8513c7d7c34c70bd4923d3006dca5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 55.7494733,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 57,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/moscow-metro/",
+        "longitude": 37.35232,
+        "programname": "",
+        "state": "Moscow",
+        "hashtags/Keywords": "",
+        "Author(s)": "Atira Ariffin",
+        "continent": "Asia",
+        "school": "Architectural Association School of Architecture",
+        "country": "Russia",
+        "title": "Moscow Metro | The Networked Labyrinth",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Maria Fedorchenko & Tatiana von Preussen"
+      },
+      "geometry": {
+        "coordinates": [
+          37.35232,
+          55.749473
+        ],
+        "type": "Point"
+      },
+      "id": "71b7c5392404935b9c66560189e90d29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "aditnalta",
+        "coverimageurl": "",
+        "latitude": 16.3477322,
+        "degree": "Diploma 6",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 71,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/aditnalta/",
+        "longitude": -94.8273325,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Mond Qu",
+        "continent": "North America",
+        "school": "Architectural Association, School of Architecture",
+        "country": "mexico",
+        "title": "Aditnalta",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Liam Young, Kate Davies"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.827332,
+          16.347732
+        ],
+        "type": "Point"
+      },
+      "id": "76f3ae0b85d0be02cb4df746f417eb87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "el Turó de la Rovira",
+        "coverimageurl": "",
+        "latitude": 41.4189025,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 74,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/regeneration-of-a-quarry/",
+        "longitude": 2.1532515,
+        "programname": "",
+        "state": "Barcelona",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ryan Tyler Martinez",
+        "continent": "Europe",
+        "school": "Southern California Institute of Architecture",
+        "country": "Spain",
+        "title": "Regeneration of a Quarry",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Eric Owen Moss"
+      },
+      "geometry": {
+        "coordinates": [
+          2.153251,
+          41.418902
+        ],
+        "type": "Point"
+      },
+      "id": "7862f1e50cd47fc9ad116763bd705b68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 22.3574371,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 61,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sonic-morphologies/",
+        "longitude": 113.8408253,
+        "programname": "",
+        "state": "Hong Kong ",
+        "hashtags/Keywords": "",
+        "Author(s)": "Joanna Pawlas",
+        "continent": "Asia",
+        "school": "Bartlett School of Architecture, UCL",
+        "country": "China",
+        "title": "Sonic Morphologies",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Marcos Cruz, Marjan Colletti, Richard Beckett"
+      },
+      "geometry": {
+        "coordinates": [
+          113.840825,
+          22.357437
+        ],
+        "type": "Point"
+      },
+      "id": "7a8c12de0c9231e68ab37c868614b9f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "San Diego",
+        "coverimageurl": "",
+        "latitude": 32.8242404,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 92,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/context-forgotten/",
+        "longitude": -117.3753518,
+        "programname": "",
+        "state": "CA",
+        "hashtags/Keywords": "",
+        "Author(s)": "Agata Murasko",
+        "continent": "North America",
+        "school": "Newcastle University",
+        "country": "US",
+        "title": "Context Forgotten",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Matt Ozga-Lawn, James Craig"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.375351,
+          32.82424
+        ],
+        "type": "Point"
+      },
+      "id": "7baf6dfeab79ba580542d96b61968a61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 22.3574371,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 78,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/serendipitious-house/",
+        "longitude": 113.8408253,
+        "programname": "",
+        "state": "Hong Kong ",
+        "hashtags/Keywords": "",
+        "Author(s)": "Anahita Chouhan",
+        "continent": "Asia",
+        "school": "The Bartlett School of Architecture, UCL",
+        "country": "China",
+        "title": "Serendipitous House",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Marcos Cruz, Marjan Colletti, Richard Beckett"
+      },
+      "geometry": {
+        "coordinates": [
+          113.840825,
+          22.357437
+        ],
+        "type": "Point"
+      },
+      "id": "7e8def14bde2cd63b1adce59a1b1d9eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": 90028,
+        "street": "Hollywood Blvd",
+        "precedents": "",
+        "Place": "",
+        "city": "Los Angeles",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/The-Hive-071.jpg",
+        "latitude": 34.1013638,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS-2",
+        "Order": 2,
+        "buildingtype": "Installation",
+        "url": "http://superarchitects.world/portfolio/the-tresholdhive/",
+        "longitude": -118.3339941,
+        "programname": "Master of Architecture",
+        "state": "California",
+        "hashtags/Keywords": "",
+        "Author(s)": "Spaces within Spaces M.Arch 1 Design Studio",
+        "continent": "North America",
+        "school": "Woodbury University",
+        "country": "US",
+        "title": "The Threshold | Hive",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Linda Taalman, Rebecca Rudolph, Kelly Bair"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.333994,
+          34.101363
+        ],
+        "type": "Point"
+      },
+      "id": "7f2bfaca2d9556beb6e5ef2c674ca6c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Salton Sea",
+        "coverimageurl": "",
+        "latitude": 33.328619,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 15,
+        "buildingtype": "Mixed Use",
+        "url": "http://superarchitects.world/portfolio/salt-flat-hybrid/",
+        "longitude": -115.843412,
+        "programname": "",
+        "state": "CA",
+        "hashtags/Keywords": "",
+        "Author(s)": "Matt Chymbor",
+        "continent": "North America",
+        "school": "Woodbury School of Architecture",
+        "country": "US",
+        "title": "Salt Flat Hybrid",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.843412,
+          33.328619
+        ],
+        "type": "Point"
+      },
+      "id": "7fe24ee06fd2c4ca3b444ba09f461e2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Greenwich Peninsula",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.4909835,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 155,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-soil-city/",
+        "longitude": "0.0018162﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Pamela Poh Sin Tan",
+        "continent": "North America",
+        "school": "",
+        "country": "",
+        "title": "The Soil City",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Max Dewdney, James A. Craig"
+      },
+      "geometry": {
+        "coordinates": [
+          0.001816,
+          51.490983
+        ],
+        "type": "Point"
+      },
+      "id": "8069f336a5d128fb17b82781a497b44d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 44.508717,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 17,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/isocommunication/",
+        "longitude": 11.296479,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Vincenzo Reale",
+        "continent": "",
+        "school": "University of Bologna",
+        "country": "",
+        "title": "(Iso)communication",
+        "Email": "",
+        "year": 2010,
+        "advisor(s)": "Alessio Erioli, Ludovico Lombardi"
+      },
+      "geometry": {
+        "coordinates": [
+          11.296479,
+          44.508717
+        ],
+        "type": "Point"
+      },
+      "id": "86c5590baac090ca73b8c53d9b745dbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 48.78198,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "",
+        "Order": 30,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/research-pavilion/",
+        "longitude": 9.175758,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "ICD/ITKE",
+        "continent": "",
+        "school": "University of Stuttgart",
+        "country": "",
+        "title": "Research Pavilion",
+        "Email": "",
+        "year": 2011,
+        "advisor(s)": "Achim Menges, Dr. Jan Knippers"
+      },
+      "geometry": {
+        "coordinates": [
+          9.175758,
+          48.78198
+        ],
+        "type": "Point"
+      },
+      "id": "8ddc5ca379e117a251e6411a5388f053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Boston ",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 42.3132883,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 178,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/51683-2/",
+        "longitude": -71.1972408,
+        "programname": "",
+        "state": "Massachusetts",
+        "hashtags/Keywords": "",
+        "Author(s)": "Luke Douglas Erickson",
+        "continent": "North America",
+        "school": "Cornell University, School of Architecture",
+        "country": "",
+        "title": "Anachronous Trajectories",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Tao DuFour, Val Warke"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.19724,
+          42.313288
+        ],
+        "type": "Point"
+      },
+      "id": "904e34aa14dd014b510bb1ada4261d02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Haifa bay",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 32.8161622,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 161,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/hotze-carmel/",
+        "longitude": "35.0078682﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Anais Simaan",
+        "continent": "Asia",
+        "school": "Technion, Israel Institute of Technology",
+        "country": "",
+        "title": "Hotze Carmel",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Gaby Shwartz, Fatina Abreek-Zubiedat"
+      },
+      "geometry": {
+        "coordinates": [
+          35.007868,
+          32.816162
+        ],
+        "type": "Point"
+      },
+      "id": "90a826893011d96d196a6113c2a7438f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Bundesimobiliengesellschaft ",
+        "coverimageurl": "",
+        "latitude": 48.61166,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 116,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/swapping-time-for-space/",
+        "longitude": 12.0747221,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Maximilian Kucera",
+        "continent": "Europe",
+        "school": "University of Innsbruck",
+        "country": "Austria",
+        "title": "Swapping Time for Space",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "DI Christian Dummer"
+      },
+      "geometry": {
+        "coordinates": [
+          12.074722,
+          48.61166
+        ],
+        "type": "Point"
+      },
+      "id": "961c04883efd107833faababb23614f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 49.0096906,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 137,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/fly-to-shop/",
+        "longitude": 2.5457358,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Yun Zhang",
+        "continent": "Europe",
+        "school": "University of Applied Art, Vienna",
+        "country": "",
+        "title": "Fly-to-Shop",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Zaha Hadid, Patrik Schumacher"
+      },
+      "geometry": {
+        "coordinates": [
+          2.545735,
+          49.00969
+        ],
+        "type": "Point"
+      },
+      "id": "99474b6100a7c81b3b4c31dd5f5eb04a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 32.0654326,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 54,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/eden/",
+        "longitude": 34.7744546,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Tim Münnich",
+        "continent": "Europe",
+        "school": "Hochschule Darmstadt, University of applied science, fba Architektur",
+        "country": "Germany",
+        "title": " Eden  |  Villa with studio_Mathildenhöhe Darmstadt",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": ""
+      },
+      "geometry": {
+        "coordinates": [
+          34.774454,
+          32.065432
+        ],
+        "type": "Point"
+      },
+      "id": "9a86e98a6f9540fbf494a56e71cf1208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 39.103046,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 33,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/live-make/",
+        "longitude": -84.512077,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ross Stuart Couper",
+        "continent": "",
+        "school": "Leeds Metropolitan University",
+        "country": "",
+        "title": "Live Make",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.512077,
+          39.103046
+        ],
+        "type": "Point"
+      },
+      "id": "9df138645bc842dcb7370415e961af5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 23.022654,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 46,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/urban-strategies/",
+        "longitude": 72.571016,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Almudena Cano Pineiro",
+        "continent": "",
+        "school": "Escuela Técnica Superior de Arquitectura de Madrid",
+        "country": "",
+        "title": "Urban Strategies",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Luis Basabe Montalvo"
+      },
+      "geometry": {
+        "coordinates": [
+          72.571016,
+          23.022654
+        ],
+        "type": "Point"
+      },
+      "id": "9e03bbe60ea2f2904b7771ff906b6f9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.063932,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 23,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/oil-and-water/",
+        "longitude": -118.359229,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Bianca Gavrila",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Oil and Water",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Barbara Bestor, Bernika Boberska"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.359229,
+          34.063932
+        ],
+        "type": "Point"
+      },
+      "id": "a12efe7a02c86784c313a4a72f1ca877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 58.853259,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 44,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/made-in-sandnes/",
+        "longitude": 5.732946,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Eivor Davidsen and Espen Vik",
+        "continent": "",
+        "school": "Bergen Arkitekt Skole",
+        "country": "",
+        "title": "Made in Sandnes",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Andre Fontes, Espen Folgerø, DAV Vibeke Jensen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.732946,
+          58.853259
+        ],
+        "type": "Point"
+      },
+      "id": "a14046ea3a12dff5ecb14f83be18ff45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Amsterdam, Netherlands",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 52.3746961,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 165,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/neu-amsterdam/",
+        "longitude": "4.8285749﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Matt Gehm and Michael Den Hartog",
+        "continent": "Europe",
+        "school": "University of Southern California",
+        "country": "",
+        "title": "Neu-Amsterdam ",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Warren Techentin"
+      },
+      "geometry": {
+        "coordinates": [
+          4.828574,
+          52.374696
+        ],
+        "type": "Point"
+      },
+      "id": "a1488ab60620ba7cdf874c5fbebc261b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Suez Canal",
+        "coverimageurl": "",
+        "latitude": 30.5728396,
+        "degree": "RIBA II",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 82,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/vertical-reclamation-2/",
+        "longitude": 31.8848698,
+        "programname": "School of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ashkan Sadeghi",
+        "continent": "Africa",
+        "school": "Architectural Association ",
+        "country": "Egypt",
+        "title": "Vertical Reclamation",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Jonas Lundberg, Andrew Yau"
+      },
+      "geometry": {
+        "coordinates": [
+          31.884869,
+          30.572839
+        ],
+        "type": "Point"
+      },
+      "id": "a181dda5854a20d616d7e18e8d997968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Glasgow Tobacco Warehouse",
+        "city": "Glasgow",
+        "coverimageurl": "",
+        "latitude": 55.8555366,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 108,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/fun-factory/",
+        "longitude": -4.3021615,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Stefanos Ziras and Anait Karaoglanian",
+        "continent": "Europe",
+        "school": "University of Thessaly",
+        "country": "UK",
+        "title": "Fun Factory",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Elias Zenghelis"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.302161,
+          55.855536
+        ],
+        "type": "Point"
+      },
+      "id": "a41f460cb985b881bb6cee892ce8e8bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Volos",
+        "coverimageurl": "",
+        "latitude": 39.3651995,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 109,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/depositorium/",
+        "longitude": 22.9298459,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sebastian Tiew",
+        "continent": "Europe",
+        "school": "Architectural Association, School of Architecture",
+        "country": "Greece",
+        "title": "Depositorium",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Mark Campbell and Stewart Dodd"
+      },
+      "geometry": {
+        "coordinates": [
+          22.929845,
+          39.365199
+        ],
+        "type": "Point"
+      },
+      "id": "a44d5b7972c74e9c047b90eea700ea02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.429725,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS-10",
+        "Order": 18,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/subnature/",
+        "longitude": -73.679982,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Carla Lores and Michael Yarinsky",
+        "continent": "",
+        "school": "Pratt Institute",
+        "country": "",
+        "title": "Subnature",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Michael Chen, Jason Lee"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.679982,
+          41.429725
+        ],
+        "type": "Point"
+      },
+      "id": "a636bbef3bd017cb68f88388d6b38352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Madrid-Barajas Airport",
+        "city": "Madrid",
+        "coverimageurl": "",
+        "latitude": 40.4868716,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 174,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/madrid-import-export/",
+        "longitude": -3.5833852,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Borja Aznar Montero",
+        "continent": "Europe",
+        "school": "Architecture School at the Polytechnical University of Madrid",
+        "country": "Spain",
+        "title": "Madrid Import Export",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "José Aranguren, José Gonzalez Gallegos"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.583385,
+          40.486871
+        ],
+        "type": "Point"
+      },
+      "id": "ac23f6bcfda66d9ecde8ef18ad189453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.741791,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 49,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/ambivalent-object/",
+        "longitude": -118.341582,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Colin Winchell",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Ambivalent Object",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ewan Branda, Eric Olsen"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.341582,
+          33.741791
+        ],
+        "type": "Point"
+      },
+      "id": "af3d0c72b12ebef02e282c826c730b65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "UCLA",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.068921,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 68,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/ambivalent-object-2/",
+        "longitude": -118.4473698,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ryan Hong",
+        "continent": "North America",
+        "school": "niversity of California, Los Angeles",
+        "country": "",
+        "title": "Ambivalent Object 2",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Jason Payne"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.447369,
+          34.068921
+        ],
+        "type": "Point"
+      },
+      "id": "b2857b4408f9994772ea63a669f27bdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "The Vatican",
+        "city": "Rome",
+        "coverimageurl": "",
+        "latitude": 41.903816,
+        "degree": "RIBA II",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 136,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/cathedral-of-axciom/",
+        "longitude": 12.4433064,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Wesley Soo",
+        "continent": "Europe",
+        "school": "Architectural Association",
+        "country": "Italy",
+        "title": "Cathedral of Axciom",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12.443306,
+          41.903816
+        ],
+        "type": "Point"
+      },
+      "id": "b34fc59a2914dc816976732581184f6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/04-SECTIONAA-01.jpg",
+        "latitude": 36.4372918,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS-3",
+        "Order": 3,
+        "buildingtype": "MAT",
+        "url": "http://superarchitects.world/portfolio/fostered-ecologies/",
+        "longitude": -118.0373829,
+        "programname": "Master of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sunny Lam",
+        "continent": "North America",
+        "school": "Woodbury University",
+        "country": "",
+        "title": "Fostered Ecologies",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Jennifer Bonner, John Southern"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.037382,
+          36.437291
+        ],
+        "type": "Point"
+      },
+      "id": "b3f770e7343f6aadabfef6914c34e18e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Berlin, Germany",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 52.5076682,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 176,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-thermoelectric-city/",
+        "longitude": 13.286063,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Lewis Armstrong",
+        "continent": "Europe",
+        "school": "Glasgow School of Art",
+        "country": "",
+        "title": "The Thermoelectric City",
+        "Email": "",
+        "year": "",
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          13.286063,
+          52.507668
+        ],
+        "type": "Point"
+      },
+      "id": "b64067317824d4d8d965085ef9db7305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Mexico City",
+        "coverimageurl": "",
+        "latitude": 19.3905191,
+        "degree": "Diploma 6",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 90,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/system-d-logistics/",
+        "longitude": -99.4238147,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Zhan Wang",
+        "continent": "North America",
+        "school": "Architectural Association",
+        "country": "Mexico",
+        "title": "System D Logistics",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Kate Davies, Liam Young"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.423814,
+          19.390519
+        ],
+        "type": "Point"
+      },
+      "id": "ba7f72748bec8fce826a8023b462b0af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.712784,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 22,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/46499-2/",
+        "longitude": -74.005941,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Mengyi Fan and Marc Moukarzel",
+        "continent": "",
+        "school": "Colombia University _ GSAPP",
+        "country": "",
+        "title": "Beyond the Street",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Jeffrey Inaba"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005941,
+          40.712784
+        ],
+        "type": "Point"
+      },
+      "id": "bbd69034ccf8556d3dcd3deabc998401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Paris",
+        "coverimageurl": "",
+        "latitude": "47.4493765,",
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 87,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/sous-les-paves/",
+        "longitude": -15.5439376,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Yongwon Kwon",
+        "continent": "Europe",
+        "school": "Columbia University, GSAPP",
+        "country": "France",
+        "title": "Sous Les Paves",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Christina Goberna"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.543937,
+          47.449376
+        ],
+        "type": "Point"
+      },
+      "id": "bc8b94268ce83de0328b77feca12ca4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "Copenhagen",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Nørrebro",
+        "coverimageurl": "",
+        "latitude": 55.6965178,
+        "degree": "Post Graduate Diploma",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 99,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/tekstiler-kvartal/",
+        "longitude": 12.5344945,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Chris Dove",
+        "continent": "Europe",
+        "school": "Mackintosh School of Architecture, Glasgow School of Art",
+        "country": "Denmark",
+        "title": "Tekstiler Kvartal",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          12.534494,
+          55.696517
+        ],
+        "type": "Point"
+      },
+      "id": "bcfc639f91df874b84e3ebf512d7887d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "Michigan Ave",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 41.8741509,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 77,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/blush/",
+        "longitude": -87.6263511,
+        "programname": "",
+        "state": "Chicago",
+        "hashtags/Keywords": "",
+        "Author(s)": "Viola Ago",
+        "continent": "North America",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Blush",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Elena Manferdini"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626351,
+          41.87415
+        ],
+        "type": "Point"
+      },
+      "id": "bd7842ddafb2b4820412579265d773b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.6801103,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 52,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/idiosyncracities/",
+        "longitude": -122.4091759,
+        "programname": "",
+        "state": "Tokyo",
+        "hashtags/Keywords": "",
+        "Author(s)": "Natalie Kwee",
+        "continent": "Asia",
+        "school": "Cornell University",
+        "country": "Japan",
+        "title": "Idiosyncracities",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Andrea Simitch, Inaqui Carnicero"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.409175,
+          40.68011
+        ],
+        "type": "Point"
+      },
+      "id": "bd9c8177eb62b4d4746ce5b9232ac819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": " Charleroi",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 50.4230233,
+        "degree": "MS Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 190,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/the-case-of-monceau-sur-sambre/",
+        "longitude": 4.3575706,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ekaterina Nagibina",
+        "continent": "Europe",
+        "school": "University Universität Liechtenstein",
+        "country": "Belgium",
+        "title": "The Case of Monceau Sur Sambre",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Peter A. Staub, Georgia Papathanasiou"
+      },
+      "geometry": {
+        "coordinates": [
+          4.35757,
+          50.423023
+        ],
+        "type": "Point"
+      },
+      "id": "be1fec497a1ebfe5150920d4a8f8c9a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.3858312,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 91,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/intelligent-pencil/",
+        "longitude": 7.7683234,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ibrahim Rajah",
+        "continent": "",
+        "school": "London Southbank University",
+        "country": "juberg tower hemer germany",
+        "title": "Intelligent Pencil",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Lilly Kudic"
+      },
+      "geometry": {
+        "coordinates": [
+          7.768323,
+          51.385831
+        ],
+        "type": "Point"
+      },
+      "id": "bee9e84ef74147f3171ddce4c9aa6584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": " Taichung, Taiwan ",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 24.220473,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 168,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/recover/",
+        "longitude": 120.6756877,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Mark Chien",
+        "continent": "Asia",
+        "school": "Woodbury School of Architecture, San Diego",
+        "country": "",
+        "title": "Recover",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Marcel Sanchez-Prieto"
+      },
+      "geometry": {
+        "coordinates": [
+          120.675687,
+          24.220473
+        ],
+        "type": "Point"
+      },
+      "id": "bff26248b93193a657122cb03cea37f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 47.376887,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 38,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/peter/",
+        "longitude": 8.541693,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alexander Hertel, Christopher Tan",
+        "continent": "",
+        "school": "École polytechnique fédérale de Lausanne",
+        "country": "",
+        "title": "Peter",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Dieter Dietz, Harry Gugger, Laurent Stalder"
+      },
+      "geometry": {
+        "coordinates": [
+          8.541693,
+          47.376887
+        ],
+        "type": "Point"
+      },
+      "id": "c071499e4e9ddc64b624843a7f9038fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 34.047616,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 48,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/void-tower/",
+        "longitude": -118.264472,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Brandon Scott Sampson",
+        "continent": "",
+        "school": "Cal Poly | San Luis Obispo",
+        "country": "",
+        "title": "Void Tower",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Karen Lange"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.264472,
+          34.047616
+        ],
+        "type": "Point"
+      },
+      "id": "c115e88b4d65d3f354c843bf701446e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "New Orleans",
+        "coverimageurl": "",
+        "latitude": 30.0218667,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 121,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/all-things-water/",
+        "longitude": -90.0225557,
+        "programname": "",
+        "state": "Lousiana",
+        "hashtags/Keywords": "",
+        "Author(s)": "Christina Shivers",
+        "continent": "North America",
+        "school": "Georgia Institute of Technology",
+        "country": "",
+        "title": "All Things Water",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Jennifer Bonner"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.022555,
+          30.021866
+        ],
+        "type": "Point"
+      },
+      "id": "c39b7b66719fc9c92871114642b10183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.754338,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 47,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/new-york-high-rise/",
+        "longitude": -74.003044,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Gabriel Mihalea",
+        "continent": "",
+        "school": "University of Architecture and Urban Planning “Ion Mincu”",
+        "country": "",
+        "title": "New York High Rise",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Dr. Dorin Stefan"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.003044,
+          40.754338
+        ],
+        "type": "Point"
+      },
+      "id": "c5e2374fba2745dca8919ff0b6bab688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Queen Maud Mountains of Antarctica",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 84.9995703,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 166,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/aeriform-ecologies/",
+        "longitude": -160.0021887,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jennifer Ng",
+        "continent": "Antarctica",
+        "school": "Taubman College of Architecture and Urban Planning",
+        "country": "",
+        "title": "Aeriform Ecologies | An Atmospheric Archive for Industrial Effluvium",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Kathy Velikov"
+      },
+      "geometry": {
+        "coordinates": [
+          -160.002188,
+          84.99957
+        ],
+        "type": "Point"
+      },
+      "id": "c6264f216430564e0e2ba18d372d6213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 47.9040943,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 65,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/hygroskin/",
+        "longitude": 1.8946458,
+        "programname": "",
+        "state": "FRAC Centre",
+        "hashtags/Keywords": "",
+        "Author(s)": "Achim Menges and Oliver David Krieg and Steffen Reichert",
+        "continent": "Europe",
+        "school": "ICD University of Stuttgart",
+        "country": "France",
+        "title": "Hygroskin",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          1.894645,
+          47.904094
+        ],
+        "type": "Point"
+      },
+      "id": "c8afba248f139672b45ecf24d4efc16b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Brazilian Favela",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": -22.9108558,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 120,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/new-rocinha/",
+        "longitude": "-43.5884178﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Emily Von Moger",
+        "continent": "South America",
+        "school": "Deakin University",
+        "country": "Brazil",
+        "title": "New Rocinha",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Diego Fullaondo"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.588417,
+          -22.910855
+        ],
+        "type": "Point"
+      },
+      "id": "c8e35c4127611382a9c3c8d3c1800bdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Cala Montjo",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 42.2522412,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 144,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/weird-nature/",
+        "longitude": 3.2249171,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Polina Alexeeva, Junjie Guo and Charmaine Lam",
+        "continent": "Europe",
+        "school": "Southern California Institute of Architecture",
+        "country": "Spain",
+        "title": "Weird Nature ",
+        "Email": "",
+        "year": "",
+        "advisor(s)": "Casey Rehm"
+      },
+      "geometry": {
+        "coordinates": [
+          3.224917,
+          42.252241
+        ],
+        "type": "Point"
+      },
+      "id": "cbecabacb806cba7e0a15eed595691b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Port Melbourne",
+        "coverimageurl": "",
+        "latitude": -37.8343233,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 76,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/cars-tomized/",
+        "longitude": 144.9058589,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Pei Ern Ho and Angelika Irawan",
+        "continent": "Australia",
+        "school": "Royal Melbourne Institute of Technology",
+        "country": "Australia",
+        "title": "Cars tomized",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Gretchen Wilkins, Ian Nazareth"
+      },
+      "geometry": {
+        "coordinates": [
+          144.905858,
+          -37.834323
+        ],
+        "type": "Point"
+      },
+      "id": "cc88d47b8fd44b810192f6140912590e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.707919,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 40,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/dissolution-coherence/",
+        "longitude": -118.277599,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Author : David Hurtado",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Dissolution Coherence ",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ewan Branda, Eric Olsen"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.277599,
+          33.707919
+        ],
+        "type": "Point"
+      },
+      "id": "cd70b389d86ac118b82b295e711a0575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.83881,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 39,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/pier-pleasure/",
+        "longitude": -118.392366,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Sunny Lam",
+        "continent": "",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Pier Pleasure",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Barbara Bestor"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.392366,
+          33.83881
+        ],
+        "type": "Point"
+      },
+      "id": "ceba97bd94681413c491576188b420cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Slottsparken ",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 59.917625,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 196,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/oslo-convergence/",
+        "longitude": 10.7281433,
+        "programname": "Oslo school of Architecture and Design",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Matteo Lomaglio ",
+        "continent": "Europe",
+        "school": "Oslo school of Architecture and Design",
+        "country": "Norway",
+        "title": "Olso Convergence",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Michael U. Hensel, Søren S. Sørensen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.728143,
+          59.917625
+        ],
+        "type": "Point"
+      },
+      "id": "cf3699a790b0ac1ac7658c9bbd47dc31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 6.5750365,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 112,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/awakening-of-our-facilities/",
+        "longitude": -75.661121,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Adriana Useche",
+        "continent": "South America",
+        "school": "University of Westminster",
+        "country": "Venezuela",
+        "title": "Awakening of our Facilities",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Samir Pandya, Nasser Golzari"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.661121,
+          6.575036
+        ],
+        "type": "Point"
+      },
+      "id": "cfb9b0f809dfc10cb7f811bc86acdea4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "http://superarchitects.world/wp-content/uploads/2016/01/04_LRGSection.jpg",
+        "latitude": 36.8025,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T-1",
+        "Order": 6,
+        "buildingtype": "Housing",
+        "url": "http://superarchitects.world/portfolio/quarantena/",
+        "longitude": -118.199722,
+        "programname": "Bachelor of Architecture",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Robert Magdy Morgan",
+        "continent": "",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Quarantena",
+        "Email": "",
+        "year": 2011,
+        "advisor(s)": "Devyn Weiser"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.199722,
+          36.8025
+        ],
+        "type": "Point"
+      },
+      "id": "d1d1a413f99bceee8cc477ea1c2b0ddb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Ramsgate",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.3414139,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 191,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/mycro-community/",
+        "longitude": "1.3861518,14",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jordan Whitewood-Neal",
+        "continent": "Europe",
+        "school": "University for the Creative Arts: Canterbury School of Architecture",
+        "country": "United Kingdom",
+        "title": "Mycro Community",
+        "Email": "",
+        "year": 2016,
+        "advisor(s)": "Kristina Kotov"
+      },
+      "geometry": {
+        "coordinates": [
+          1.386151,
+          51.341413
+        ],
+        "type": "Point"
+      },
+      "id": "d5c1ed31c239c0fe5ce6629add778fb9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.814147,
+        "degree": "MArch RIBA II",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 111,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/robinsons-dichotomy/",
+        "longitude": -1.5751051,
+        "programname": "",
+        "state": "Oxfordshire",
+        "hashtags/Keywords": "",
+        "Author(s)": "Paul Nelson",
+        "continent": "Europe",
+        "school": "University of Lincoln",
+        "country": "UK",
+        "title": "Robinsons Dichotomy",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Richard Wright"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.575105,
+          51.814147
+        ],
+        "type": "Point"
+      },
+      "id": "d7ebf54b0292eb7b040d8437269eed92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "island of Zanzibar",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": -6.0998986,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 171,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/station-6/",
+        "longitude": "39.100817﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Richard Meade",
+        "continent": "Africa",
+        "school": "University of Johannesburg",
+        "country": "",
+        "title": "Station 6",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Lesley Lokko, Craig McClenaghan, Sumayya Vally"
+      },
+      "geometry": {
+        "coordinates": [
+          39.100817,
+          -6.099898
+        ],
+        "type": "Point"
+      },
+      "id": "daf257335c4ec8625f8690d3d06cad80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Central Valley",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 36.534757,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 50,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/split-form-city/",
+        "longitude": -120.205153,
+        "programname": "",
+        "state": "California",
+        "hashtags/Keywords": "",
+        "Author(s)": "Andre Gharakhanian",
+        "continent": "North America",
+        "school": "Woodbury School of Architecture",
+        "country": "",
+        "title": "Split Form City",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Boberska Berenika, Casey Hughes"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.205153,
+          36.534757
+        ],
+        "type": "Point"
+      },
+      "id": "db317e9ed85e91b496e04ac726e7cfc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 23.761388,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 41,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/gopal-nagar/",
+        "longitude": 83.905954,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alberto Gonzalez, Capitel Martorell",
+        "continent": "",
+        "school": "Architecture School at the Polytechnical University of Madrid",
+        "country": "",
+        "title": "Gopal Nagar",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Luis Basabe Montalvo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.905954,
+          23.761388
+        ],
+        "type": "Point"
+      },
+      "id": "dc3bf8c90c011243b93de2f3f37fcbb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 23.11151,
+        "degree": "",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 16,
+        "buildingtype": "Theoretical",
+        "url": "http://superarchitects.world/portfolio/familiar-primitives/",
+        "longitude": -82.383642,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Ivan Bernal",
+        "continent": "",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Familiar Primitives",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": "Hernan Diaz Alonso"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.383642,
+          23.11151
+        ],
+        "type": "Point"
+      },
+      "id": "e1c7898848d2149f87f18bbe87bcbff3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "London Metropolitan Police",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 51.508229,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 151,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/21st-century-birdwatching/",
+        "longitude": -0.251891,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Muhammad Shamin bin Sahrum",
+        "continent": "Europe",
+        "school": "University of Greenwich",
+        "country": "",
+        "title": "21st Century Birdwatching",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Max Dewdney, James A. Craig"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.25189,
+          51.508229
+        ],
+        "type": "Point"
+      },
+      "id": "e328f175445450d19339ebb03722dd1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Hartlepool",
+        "coverimageurl": "",
+        "latitude": 54.6725642,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 93,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/cloud-colouring/",
+        "longitude": -1.2828666,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Andrew Wagner",
+        "continent": "Europe",
+        "school": "Woodbury School of Architecture San Diego",
+        "country": "United Kingdom",
+        "title": "Cloud Colouring",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Eric Johnson"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.282866,
+          54.672564
+        ],
+        "type": "Point"
+      },
+      "id": "e4f5e85371c770de1341b67fde5950c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.408456,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 35,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/lavapies-neighborhood/",
+        "longitude": -3.700922,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Isabel Gutiérrez Sánchez",
+        "continent": "",
+        "school": "Escuela Técnica Superior de Arquitectura de Madrid",
+        "country": "",
+        "title": "Lavapies Neighborhood",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Izaskun Chinchilla Moreno"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.700922,
+          40.408456
+        ],
+        "type": "Point"
+      },
+      "id": "e5988f159d6a630cf77b5293f46c2647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Spree River",
+        "city": "Berlin",
+        "coverimageurl": "",
+        "latitude": 52.4924021,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 118,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/hybrid-derives/",
+        "longitude": "13.2513967﻿",
+        "programname": "Ecole Spéciale d’Architecture in Paris",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Laurent Dubuis",
+        "continent": "Europe",
+        "school": "Ecole Spéciale d’Architecture in Paris",
+        "country": "Germany",
+        "title": "Hybrid Derives",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Ricardo DeOstos"
+      },
+      "geometry": {
+        "coordinates": [
+          13.251396,
+          52.492402
+        ],
+        "type": "Point"
+      },
+      "id": "ea4741bc81821b478ea57fab2dec4b0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 2.8778142,
+        "degree": "Diploma 5",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 66,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/caravan-palace/",
+        "longitude": 20.8202243,
+        "programname": "",
+        "state": "Mitrovica",
+        "hashtags/Keywords": "",
+        "Author(s)": "Maud Sanciaume",
+        "continent": "Asia",
+        "school": "Architectural Association School of Architecture",
+        "country": "Kosovo",
+        "title": "Caravan Palace",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Cristina Díaz Moreno, Efrén García Grinda, Tyen Masten, John Ng"
+      },
+      "geometry": {
+        "coordinates": [
+          20.820224,
+          2.877814
+        ],
+        "type": "Point"
+      },
+      "id": "ed44a31df8b944a90241d5033aba5ed4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "City of Tempe ",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 33.4236888,
+        "degree": "M Arch II",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 117,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/memorial-transit-shelter/",
+        "longitude": -111.9418915,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Keegan D. Quick and Mikhail M. Gladchenko",
+        "continent": "North America",
+        "school": "Southern California Institute of Architecture",
+        "country": "",
+        "title": "Memorial Transit Shelter",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "NA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.941891,
+          33.423688
+        ],
+        "type": "Point"
+      },
+      "id": "eedf5994f5513ad843606beb488e2cb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 40.8075355,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 80,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/eidos/",
+        "longitude": -73.9647614,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Carlo Bailey and Lorenzo Villaggi",
+        "continent": "",
+        "school": "Columbia University, GSAPP",
+        "country": "",
+        "title": "Eidos",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Charles Eldred"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.964761,
+          40.807535
+        ],
+        "type": "Point"
+      },
+      "id": "f0762124be213eb5cbc57dcc03f3c77c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": 2119,
+        "street": "55 Norfolk Avenue",
+        "precedents": "",
+        "Place": "",
+        "city": "Boston",
+        "coverimageurl": "",
+        "latitude": 42.327869,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS-8",
+        "Order": 12,
+        "buildingtype": "Industrial",
+        "url": "http://superarchitects.world/portfolio/holopticon/",
+        "longitude": -71.073489,
+        "programname": "",
+        "state": "MA",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jin Kyu Lee",
+        "continent": "North America",
+        "school": "MIT",
+        "country": "US",
+        "title": "Holopticon",
+        "Email": "",
+        "year": 2010,
+        "advisor(s)": "Andrew Scott"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.073489,
+          42.327869
+        ],
+        "type": "Point"
+      },
+      "id": "f2893235efaf51b8d923c983cd48bb8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 55.0453322,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 102,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/frackpool/",
+        "longitude": -12.3947955,
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Jason Lamb",
+        "continent": "Europe",
+        "school": "The Bartlett School of Architecture, UCL",
+        "country": "UK",
+        "title": "Frackpool",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "CJ Lim and Bernd Felsinger"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.394795,
+          55.045332
+        ],
+        "type": "Point"
+      },
+      "id": "f6bd2c43f3aff0a67979cb9517ce1584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Owen's Lake",
+        "coverimageurl": "",
+        "latitude": 36.4372918,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "TS-1",
+        "Order": 1,
+        "buildingtype": "Industrial",
+        "url": "http://superarchitects.world/portfolio/46145-2/",
+        "longitude": -118.0373829,
+        "programname": "Master of Architecture",
+        "state": "California",
+        "hashtags/Keywords": "",
+        "Author(s)": "Henry Cheung",
+        "continent": "North America",
+        "school": "Woodbury University",
+        "country": "US",
+        "title": "Machinic Veil",
+        "Email": "",
+        "year": 2012,
+        "advisor(s)": " Jennifer Bonner, John Southern"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.037382,
+          36.437291
+        ],
+        "type": "Point"
+      },
+      "id": "f71fdd1a82a467e45f30ca149bb5df2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "Perishing Square",
+        "precedents": "",
+        "Place": "",
+        "city": "Los Angeles",
+        "coverimageurl": "",
+        "latitude": 34.0483289,
+        "degree": "B. Arch",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 69,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/death-of-authorship/",
+        "longitude": -118.2552738,
+        "programname": "",
+        "state": "California",
+        "hashtags/Keywords": "",
+        "Author(s)": "Yoon Her",
+        "continent": "North America",
+        "school": "University of Southern California",
+        "country": "",
+        "title": "Death of Authorship",
+        "Email": "",
+        "year": 2013,
+        "advisor(s)": "Alvin Huang"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.255273,
+          34.048328
+        ],
+        "type": "Point"
+      },
+      "id": "fa763e068f3352e91614004beb1b1613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "",
+        "city": "Houston",
+        "coverimageurl": "",
+        "latitude": 29.8174782,
+        "degree": "BS",
+        "datesubmitted": "",
+        "code": "TS",
+        "Order": 119,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/houhaus/",
+        "longitude": -95.6814765,
+        "programname": "",
+        "state": "Texas",
+        "hashtags/Keywords": "",
+        "Author(s)": "Daniel Roche",
+        "continent": "North America",
+        "school": "The Catholic University of America School of Architecture and Planning",
+        "country": "US",
+        "title": "Houhaus",
+        "Email": "",
+        "year": 2014,
+        "advisor(s)": "Jamie Tilghman, David Dewane"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.681476,
+          29.817478
+        ],
+        "type": "Point"
+      },
+      "id": "fe0ad07cae7d3291fa64c9a68b94aa7e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datepublished": "",
+        "zip": "",
+        "street": "",
+        "precedents": "",
+        "Place": "Downtown Oakland",
+        "city": "",
+        "coverimageurl": "",
+        "latitude": 37.8110255,
+        "degree": "M. Arch I",
+        "datesubmitted": "",
+        "code": "T",
+        "Order": 164,
+        "buildingtype": "",
+        "url": "http://superarchitects.world/portfolio/coffee-apocalypse/",
+        "longitude": "-122.2963064﻿",
+        "programname": "",
+        "state": "",
+        "hashtags/Keywords": "",
+        "Author(s)": "Alex McLeod Schofield",
+        "continent": "North America",
+        "school": "University of California, Berkeley",
+        "country": "",
+        "title": "Coffee Apocalyse",
+        "Email": "",
+        "year": 2015,
+        "advisor(s)": "Ronald Rael, Tom Buresh"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.296306,
+          37.811025
+        ],
+        "type": "Point"
+      },
+      "id": "fed3e3f90f8dfe9a3a99ada713b5e175"
+    }
+  ],
+  "type": "FeatureCollection"
+}
