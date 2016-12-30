@@ -71,7 +71,7 @@
         var schools="data/sa_thesis.geojson";
 
         //Styles and loads the landmarks
-        $.getJSON(schools, function(data) {
+        $.getJSON(title, function(data) {
         var schoolmarkers = L.geoJson(data, {
             style:{
                 fillColor:"#EC2264",
